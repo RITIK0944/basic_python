@@ -1,0 +1,1 @@
+print(twosum(nums,target)
